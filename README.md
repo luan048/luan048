@@ -1,4 +1,4 @@
-<p align="center">I solve big challenges using technology. <br><br> Computer Scientist passionate about solving complex problems through technology. I really like the Web Development area, seeking to develop better skills, integrating all of this with the fundamentals of agile, practical and secure development.</p>&nbsp;
+<p align="center">I solve big challenges using technology. <br><br> Computer Science student passionate about solving complex problems through technology. I really like the Web Development area, seeking to develop better skills, integrating all of this with the fundamentals of agile, practical and secure development.</p>&nbsp;
 
  &nbsp;
  &nbsp;
