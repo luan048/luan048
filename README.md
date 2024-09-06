@@ -36,6 +36,10 @@
 &nbsp;
 &nbsp;
 
+## Git Analysis
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luan048&layout=compact&bg_color=00000000&border_color=8A2BE2)
+
 ## Contacts:
 
 <div> 
