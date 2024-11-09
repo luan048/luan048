@@ -5,10 +5,11 @@
     
   Hello! I'm Luan, a Computer Science student and Full-Stack developer with a passion for learning and facing challenges.
   I am currently focused on improving my skills in the following areas:
-  Web Development (React, Vue, Node.js, REST APIs)
-  Database (MySQL, MongoDB)
-  Software Development (Good programming practices, data structure, and algorithms)
-  I am interested in projects that involve innovation and I always seek to create efficient and impactful solutions. On my GitHub, you will find some of my projects, where I apply what I'm learning and put new technologies into             practice. That's all, thanks see you! 🤝
+  Web Development (React, Node.js, REST APIs),
+  Database (MySQL, PostgreSQL),
+  Data (with Python and Java),
+  Software Development (Good programming practices, data structure, and algorithms).
+  I am interested in projects that involve innovation and I always seek to create efficient and impactful solutions. On my GitHub, you will find some of my projects, where I apply what I'm learning and put new technologies into             practice. That's all. Thanks, see you! 🤝
   </p>
   
   <br />
