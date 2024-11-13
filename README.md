@@ -38,7 +38,8 @@
   <br><br>
   
   ## Git Analysis
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luan048&layout=compact&bg_color=00000000&border_color=8A2BE2)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=luan048&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=8A2BE2)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luan048&layout=compact&bg_color=1A1B27&border_color=8A2BE2)
 
   ## Contacts:
   <div> 
