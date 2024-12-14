@@ -1,9 +1,9 @@
 <div align="center">
   <p>
     
-  # Hello guys 👊! I'm Luan
+  # Hello guys! I'm Luan 👊
     
-  Hello! I'm Luan, a Computer Science student and Full-Stack developer with a passion for learning and facing challenges.
+  Hey! I'm Luan, a Computer Science student and Full-Stack developer with a passion for learning and facing challenges.
   I am currently focused on improving my skills in the following areas:
   Web Development (React, Node.js, REST APIs),
   Database (MySQL, PostgreSQL),
